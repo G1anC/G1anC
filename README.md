@@ -9,4 +9,4 @@
 
 - Contact me via my mail adress or directly write me a message ;)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1anC&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1anC&theme=github_dark)
