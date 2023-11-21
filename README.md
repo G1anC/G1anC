@@ -1,6 +1,6 @@
-# Hi there :raising_hand:
+# Hi there :raised_hands:
 
-### my name is *Noah Steiniger* but you can call me G1an :)
+### My name is *Noah Steiniger* but you can call me G1an :)
 
 <br>
 
