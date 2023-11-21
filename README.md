@@ -1,7 +1,6 @@
-### Hi there, I'm :
-* *G1an* or *Noah Steiniger*
-* currently studying at EPITECH Strasbourg.
-* using Arch btw...
+Hi there, my name is *Noah Steiniger* but you can call me **G1an** :)
+
+I am currently studying at EPITECH Strasbourg and i use Arch btw...
 
 My goal is to be a UI / UX developer, by creating beautiful and imaginative websites that works perfectly !
 
