@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there :raising_hand:
 
 ### my name is *Noah Steiniger* but you can call me G1an :)
 
