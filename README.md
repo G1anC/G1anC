@@ -1,4 +1,4 @@
-### Hi there, my name is *Noah Steiniger* but you can call me ***.✧ Ɠị۸ή ✧.*** :)
+### Hi there, my name is *Noah Steiniger* but you can call me ****.✧ Ɠị۸ή ✧.****
 
 <br>
 
