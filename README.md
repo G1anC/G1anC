@@ -6,7 +6,7 @@ I am currently studying at EPITECH Strasbourg and i use Arch btw...
 
 My goal is to become a (UI && UX) developer, by creating beautiful and imaginative websites !
 
-More about me and my works in my PortFolio, ! **go check it out !!!**
+More about me and my works in my PortFolio ! <br> **Go check it out !!!**
 
 -->   **https://G1anC.github.io**   <--
 
