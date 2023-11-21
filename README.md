@@ -4,7 +4,8 @@
 
 <br>
 
-I am currently studying at EPITECH Strasbourg and i use Arch btw...
+:school: I am currently studying at EPITECH Strasbourg
+:penguin: I use Arch btw...
 
 My goal is to become a (UI && UX) developer, by creating beautiful and imaginative websites !
 
