@@ -1,4 +1,6 @@
-# Hi there, my name is *Noah Steiniger* but you can call me G1an :)
+# Hi there 
+
+### my name is *Noah Steiniger* but you can call me G1an :)
 
 <br>
 
