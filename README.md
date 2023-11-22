@@ -4,7 +4,7 @@
 
 <br>
 
-:octocat: My username is °.✧ Ɠị۸ή ✧.° or G1an (it's easier to write)
+:octocat: My username is  &ast;.✧ Ɠị۸ή ✧.&ast;  or G1an (it's easier to write)
 <br> 
 :school: I am currently studying at EPITECH Strasbourg
 <br>
