@@ -1,8 +1,10 @@
-# Hi there :raised_hands: I'm °.✧ Ɠị۸ή ✧.°
+# Hi there :raised_hands: 
 
 ### :man_student: My name is *Noah Steiniger* and welcome to my page !
 
 <br>
+
+My username is °.✧ Ɠị۸ή ✧.°
 
 :school: I am currently studying at EPITECH Strasbourg
 <br>
