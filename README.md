@@ -4,8 +4,8 @@
 
 <br>
 
-My username is °.✧ Ɠị۸ή ✧.°
-
+:octocat: My username is °.✧ Ɠị۸ή ✧.° or G1an (it's easier to write)
+<br> 
 :school: I am currently studying at EPITECH Strasbourg
 <br>
 :penguin: I use Arch btw...
