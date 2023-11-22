@@ -10,7 +10,7 @@
 <br>
 :penguin: I use Arch btw...
 <br>
-:bridge_at_night: My goal is to become a (UI && UX) developer, by creating beautiful and imaginative websites !
+:bridge_at_night: My goal is to become a (UI && UX) developer / designer, by creating beautiful and imaginative websites !
 <br>
 :cyclone: More about me and my works in my PortFolio !
 
