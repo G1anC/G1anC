@@ -18,4 +18,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1anC&layout=compact&theme=github_dark)[![GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=dracula)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1anC&layout=compact&theme=github_dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=dracula)](https://git.io/streak-stats)
