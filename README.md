@@ -37,7 +37,7 @@ ________________________________________________________________________________
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```Python``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/python.svg" style="vertical-align: -3px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```PHP``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/php.svg" height = 20px style="vertical-align: -5px;"><br>
 
-**{:no_entry:}>~~ I know the purpose but doesn't how to use *(i'm looking forward to dive deeper in these subjects)* :** <br>
+**{:no_entry:}>~~ I know the purpose but doesn't properly know how to use *(i'm looking forward to dive deeper in these subjects)* :** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```npm``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/npm.svg" height = 20px style="vertical-align: -5px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```ReactJS``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/reactjs.svg" height = 20px style="vertical-align: -5px;"><br>
 <br>
