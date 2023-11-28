@@ -39,9 +39,4 @@ ________________________________________________________________________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[:no_entry:]</span> npm <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/npm.svg" height = 20px style="vertical-align: -5px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[:no_entry:]</span> React <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/reactjs.svg" height = 20px style="vertical-align: -5px;"><br>
 
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G1anC&layout=compact&theme=github_dark)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=github_dark)](https://git.io/streak-stats)
