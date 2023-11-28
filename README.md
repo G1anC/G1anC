@@ -23,7 +23,7 @@ ________________________________________________________________________________
 ### My skills :
 
 :white_check_mark: --> I consider myself having a fairly solid level and knowledge on the subject<br>
-:large_orange_diamond: --> I understand the basics but still have a lot to learn<br>
+:large_orange_diamond: --> I understand the basics and can create littles projects but i still have a lot to learn<br>
 :no_entry: --> I know what is the purpose but have no clue how to use it (i'm looking forward to dive deeper in these subjects)<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>[:white_check_mark:]</span> Git <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/git.svg" height=15 style="vertical-align: -3px;"><br>
