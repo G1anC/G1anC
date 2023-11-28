@@ -26,7 +26,7 @@ ________________________________________________________________________________
 :large_orange_diamond: --> I understand the basics and can create littles projects but i still have a lot to learn<br>
 :no_entry: --> I know what is the purpose but have no clue how to use it (i'm looking forward to dive deeper in these subjects)<br>
 
-**[:white_check_mark:]**
+**[:white_check_mark:]** :
 <br>Git <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/git.svg" height=15 style="vertical-align: -3px;"> Bash <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/0c6fc83506d8ab4a0b613459321fe7c6540a5e70/icons/shell.svg" style="vertical-align: -3px;">
 <br>C <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/0c6fc83506d8ab4a0b613459321fe7c6540a5e70/icons/c.svg" style="vertical-align: -3px;"> HTML <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/html.svg" style="vertical-align: -3px;">
 <br>(S)CSS <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/0c6fc83506d8ab4a0b613459321fe7c6540a5e70/icons/css.svg" height = 20px style="vertical-align: -3px;"> | <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/0c6fc83506d8ab4a0b613459321fe7c6540a5e70/icons/scss.svg" height = 20px style="vertical-align: -3px;">
