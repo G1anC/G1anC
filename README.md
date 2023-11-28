@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________
 
-### My skills :
+### {My skills}>~~
 
 **{:white_check_mark:}>~~ I consider myself having a fairly solid knowledge on :** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```Git``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/git.svg" height=15 style="vertical-align: -3px;"><br>
