@@ -16,8 +16,7 @@ ________________________________________________________________________________
 <br>
 :cyclone: More about me and my works in my PortFolio !
 
--->   **https://G1anC.github.io**   <-- <br><br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=transparent)
+-->   **https://G1anC.github.io**   <-- <br>
 _______________________________________________________________________________________________________________
 
 ### {My skills}>~~
