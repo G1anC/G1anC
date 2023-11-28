@@ -19,6 +19,7 @@ ________________________________________________________________________________
 -->   **https://G1anC.github.io**   <--
 
 _______________________________________________________________________________________________________________
+<br>
 
 ### My skills :
 
@@ -35,12 +36,12 @@ ________________________________________________________________________________
 &nbsp;&nbsp;&nbsp;&nbsp;|- Python <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/python.svg" style="vertical-align: -3px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- Rust <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/rust.svg" style="vertical-align: -3px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- PHP <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/php.svg" height = 20px style="vertical-align: -5px;"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- JavaScript <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/js.svg" height = 20px style="vertical-align: -5px;"><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;\  JavaScript <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/js.svg" height = 20px style="vertical-align: -5px;"><br><br>
 
 
 **[:no_entry:]** --> I know what is the purpose but have no clue how to use it (i'm looking forward to dive deeper in these subjects)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- npm <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/npm.svg" height = 20px style="vertical-align: -5px;"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;|- React <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/reactjs.svg" height = 20px style="vertical-align: -5px;"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;\  React <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/reactjs.svg" height = 20px style="vertical-align: -5px;"><br>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=github_dark)](https://git.io/streak-stats)
