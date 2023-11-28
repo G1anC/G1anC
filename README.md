@@ -44,4 +44,4 @@ _____
 <br>
 _____
 
-{!{GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=github_dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=github_dark)](https://git.io/streak-stats)
