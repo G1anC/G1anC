@@ -28,7 +28,7 @@ ________________________________________________________________________________
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```HTML``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/html.svg" style="vertical-align: -3px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```(S)CSS``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/0c6fc83506d8ab4a0b613459321fe7c6540a5e70/icons/css.svg" height = 20px style="vertical-align: -3px;"> * <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/0c6fc83506d8ab4a0b613459321fe7c6540a5e70/icons/scss.svg" height = 20px style="vertical-align: -3px;"><br><br>
 
-**{:beginner:}>~~ I have a strong base but need more training on :** <br>
+**{:sunny:}>~~ I have a strong base but need more training on :** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```C++``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/0c6fc83506d8ab4a0b613459321fe7c6540a5e70/icons/cpp.svg" style="vertical-align: -3px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```JS``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/js.svg" height = 20px style="vertical-align: -5px;"><br>
 
