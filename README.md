@@ -16,8 +16,8 @@ ________________________________________________________________________________
 <br>
 :cyclone: More about me and my works in my PortFolio !
 
--->   **https://G1anC.github.io**   <--
-
+-->   **https://G1anC.github.io**   <-- <br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=github_dark)]
 _______________________________________________________________________________________________________________
 
 ### {My skills}>~~
@@ -42,6 +42,3 @@ _____
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```npm``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/npm.svg" height = 20px style="vertical-align: -5px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;{}¤- ```ReactJS``` <img src="https://raw.githubusercontent.com/BeardedBear/bearded-icons/2d38104fa3ca8be27eb246bf02913aa864812f26/icons/reactjs.svg" height = 20px style="vertical-align: -5px;"><br>
 <br>
-_____
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=G1anC&theme=github_dark)]
