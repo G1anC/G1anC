@@ -1,6 +1,6 @@
 ### Hi there :raised_hands: 
 
-![Portfolio](https://github.com/G1anC/DESIGNS/blob/main/.github/Monet.png)
+![Portfolio](https://github.com/G1anC/DESIGNS/blob/main/.github/MonetHome.png)
 _______________________________________________________________________________________________________________
 
 ### :man_student: My name is *Noah Steiniger* and welcome to my page !
