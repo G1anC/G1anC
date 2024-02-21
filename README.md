@@ -23,4 +23,4 @@ ________________________________________________________________________________
 
 ```Front End :``` [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,wordpress,figma)](https://skillicons.dev)<br>
 ```Algorythm :``` [![My Skills](https://skillicons.dev/icons?i=c,cpp,haskell,py)](https://skillicons.dev)<br>
-```General :``` [![My Skills](https://skillicons.dev/icons?i=vscode,clion,bash,arch,linux,docker)](https://skillicons.dev)
+```General :```   [![My Skills](https://skillicons.dev/icons?i=vscode,clion,bash,arch,linux,docker)](https://skillicons.dev)
