@@ -21,4 +21,4 @@ ________________________________________________________________________________
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,arch,c,cpp,clion,vscode,bash,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,wordpress,figma,arch,c,cpp,clion,vscode,bash,haskell,docker,py)](https://skillicons.dev)
