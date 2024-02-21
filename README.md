@@ -21,6 +21,6 @@ ________________________________________________________________________________
 
 ### Skills 
 
-```Front End :``` [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,wordpress,figma)](https://skillicons.dev)<br>
-```Algorythm :``` [![My Skills](https://skillicons.dev/icons?i=c,cpp,haskell,py)](https://skillicons.dev)<br>
-```General :```   [![My Skills](https://skillicons.dev/icons?i=vscode,clion,bash,arch,linux,docker)](https://skillicons.dev)
+```Front End :```<br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,wordpress,figma)](https://skillicons.dev)<br>
+```Algorythm :```<br>[![My Skills](https://skillicons.dev/icons?i=c,cpp,haskell,py)](https://skillicons.dev)<br>
+```General :```<br>[![My Skills](https://skillicons.dev/icons?i=vscode,clion,bash,arch,linux,docker)](https://skillicons.dev)
