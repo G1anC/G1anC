@@ -1,6 +1,6 @@
 ### Hi there :raised_hands: 
 
-![Portfolio](https://github.com/G1anC/DESIGNS/blob/main/.github/Portfolio.png)
+![Portfolio](https://github.com/G1anC/G1anC/blob/main/portfolio.png)
 
 ### :man_student: My name is *Noah Steiniger* and welcome to my page !
 
@@ -21,6 +21,6 @@ ________________________________________________________________________________
 
 ### Skills 
 
-```Front End :```<br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,webflow,gsap,ts,react,npm,yarn,next,figma,spline,framer)](https://skillicons.dev)<br><br>
+```Front End :```<br><br>[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,npm,yarn,nextjs,figma,webflow,framer,spline)](https://skillicons.dev)<br><br>
 ```Algorythm :```<br><br>[![My Skills](https://skillicons.dev/icons?i=c,cpp,haskell,py)](https://skillicons.dev)<br><br>
-```General :```<br><br>[![My Skills](https://skillicons.dev/icons?i=vscode,clion,webstorm,bash,arch,linux,macos,docker)](https://skillicons.dev)
+```General :```<br><br>[![My Skills](https://skillicons.dev/icons?i=vscode,clion,webstorm,bash,linux,arch,windows,powershell)](https://skillicons.dev)
