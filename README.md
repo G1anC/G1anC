@@ -17,5 +17,5 @@ ________________________________________________________________________________
 
 ### Skills 
 
-```My usual front end stack:```<br><br>[![My Skills](https://skillicons.dev/icons?i=ts,react,bun,nextjs,svelte,sveltekit,figma,webflow,framer)](https://skillicons.dev)<br><br>
+```My usual front end stack:```<br><br>[![My Skills](https://skillicons.dev/icons?i=ts,react,bun,nextjs,svelte,figma,webflow,framer)](https://skillicons.dev)<br><br>
 ```General:```<br><br>[![My Skills](https://skillicons.dev/icons?i=webstorm,bash,linux,windows,mac,powershell)](https://skillicons.dev)
