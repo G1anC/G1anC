@@ -1,20 +1,16 @@
-### Hi there :raised_hands: 
+### Hi :raised_hands: 
 
-![Portfolio](https://github.com/G1anC/G1anC/blob/main/.github/portfolio.png)
-
-### :man_student: My name is *Noah Steiniger* and welcome to my page !
+### :man_student: My name is *Noah* and welcome to my profile.
 
 <br>
 
-:octocat: My username is  &ast;.✧ Ɠị۸ή ✧.&ast;  or G1an (it's easier to write)
+:octocat: The username I use everywhere is G1an, you might have checked me before.
 <br> 
-:school: I am currently studying at EPITECH Strasbourg
+:school: I am working as a web designer and frontend developer at Facile. Studio, feel free to reach out at https://facile.studio if you have any job for us.
 <br>
-:penguin: I use Arch btw...
+:bridge_at_night: I also am currently finalising the 4th year of my computer science master degree at Epitech BERLIN.
 <br>
-:bridge_at_night: My goal is to become a (UI && UX) developer / designer, by creating beautiful and imaginative websites !
-<br>
-:cyclone: More about me and my works in my PortFolio !
+:cyclone: Check out our agencies website for more informations or browse through my repositories, do as you please as long as you stay as much as possible. ;)
 
 -->   **https://G1anC.github.io**   <-- <br>
 _______________________________________________________________________________________________________________
