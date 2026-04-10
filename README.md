@@ -14,9 +14,8 @@ I also am currently finalising the 4th year of my computer science master degree
 <br>
 <br>
 Check out our agencies website https://facile.studio for more infos or browse through my repositories, do as you please as long as you stay as much as possible. ;)
-_______________________________________________________________________________________________________________
 
-### Skills 
+### Stack 
 
 ```My usual front end stack:```<br><br>[![My Skills](https://skillicons.dev/icons?i=ts,react,bun,nextjs,svelte,figma,tailwindcss,gsap)](https://skillicons.dev)<br><br>
 ```General:```<br><br>[![My Skills](https://skillicons.dev/icons?i=webstorm,bash,linux)](https://skillicons.dev)
