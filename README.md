@@ -1,6 +1,6 @@
-### Hi :raised_hands: 
+# Hi :P 
 
-### :man_student: My name is *Noah* and welcome to my profile.
+### My name is *Noah* and welcome to my profile.
 
 <br>
 
