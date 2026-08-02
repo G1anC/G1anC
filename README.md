@@ -1,6 +1,6 @@
-# Hi :P 
+# Hi ;)
 
-### My name is *Noah* and welcome to my profile.
+## I'm Noah, the UI/UX designer and frontend developer at Facile. Studio
 
 <br>
 
